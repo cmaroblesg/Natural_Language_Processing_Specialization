@@ -17,4 +17,4 @@ Learn the theory behind Bayes' rule for conditional probabilities, then apply it
 
 ## Labs
 * [**Lab 01:** Visualizing Naive Bayes](./labs/C1_W2_lecture_nb_01_visualizing_naive_bayes.ipynb)
-* [**Assignment:**](./labs/C1_W2_Assignment.ipynb)
+* [**Assignment**](./labs/C1_W2_Assignment.ipynb)
