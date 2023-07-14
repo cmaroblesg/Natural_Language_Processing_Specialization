@@ -12,4 +12,7 @@ Learn to extract features from text into numerical vectors, then build a binary 
 * Supervised learning
 
 ## Labs:
+* [**Lab 01:** Preprocesing](./C1_W1_lecture_nb_01_preprocessing.ipynb)
+* [**Lab 02:** Word Frequencies](./C1_W1_lecture_nb_02_word_frequencies.ipynb)
+* [**Lab 03:** Logistic Regression Model](./C1_W1_lecture_nb_03_logistic_regression_model.ipynb)
 * [**Assignment 1:** Logistic Regression](./labs/C1_W1_Assignment.ipynb)
