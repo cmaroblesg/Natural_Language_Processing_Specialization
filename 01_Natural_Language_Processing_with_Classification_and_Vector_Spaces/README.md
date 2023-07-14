@@ -1,5 +1,5 @@
 # [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
-### DeepLearning.AI
+**DeepLearning.AI**
 
 ## About this Course
 In Course 1 of the Natural Language Processing Specialization, you will:   
