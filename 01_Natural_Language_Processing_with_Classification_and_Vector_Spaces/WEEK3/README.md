@@ -18,4 +18,4 @@ Vector space models capture semantic meaning and relationships between words. Yo
 * [**Lab 01:** Linear Algebra](./labs/C1_W3_lecture_nb_01_linear_algebra.ipynb)
 * [**Lab 02:** Manipulating Word Embeddings](./labs/C1_W3_lecture_nb_02_manipulating_word_embeddings.ipynb)
 * [**Lab 03:** Another Explanation about PCA](./labs/C1_W3_lecture_nb_03_pca.ipynb)
-* [**Assignment**](./labs/)
+* [**Assignment**](./labs/C1_W3_Assignment.ipynb)
