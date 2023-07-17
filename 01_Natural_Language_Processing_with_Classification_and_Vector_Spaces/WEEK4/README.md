@@ -18,6 +18,4 @@ Learn to transform word vectors and assign them to subsets using locality sensit
 ## Labs
 * [**Lab 01:** Vector Manipulation in Python](./labs/C1_W4_lecture_nb_01_vector_manipulation.ipynb)
 * [**Lab 02:** Hash Functions and multiplanes](./labs/C1_W4_lecture_nb_02_hash_functions_and_multiplanes.ipynb)
-* [**Lab 03:**](./labs/)
-* [**Lab 04:**](./labs/)
-* [**Assignment**](./labs/)
+* [**Assignment**](./labs/C1_W4_Assignment.ipynb)
