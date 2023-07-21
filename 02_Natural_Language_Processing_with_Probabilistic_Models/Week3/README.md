@@ -14,7 +14,7 @@ Learn about how N-gram language models work by calculating sequence probabilitie
 * Tokenization
 
 ## Labs
-* [**Lab 01:**](./labs/)
-* [**Lab 02:**](./labs/)
-* [**Lab 03:**](./labs/)
+* [**Lab 01:** Corpus preprocessing for N-grams](./labs/)
+* [**Lab 02:** Building the language model](./labs/)
+* [**Lab 03:** Language model generalization](./labs/)
 * [**Assignment**](./labs/)
