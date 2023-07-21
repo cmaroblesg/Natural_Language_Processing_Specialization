@@ -1,4 +1,4 @@
-# Natural Language Processing Specialization
+# [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 Natural Language Processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence that uses algorithms to interpret and manipulate human language. 
 
@@ -11,6 +11,6 @@ Younes Bensouda Mourri is an Instructor of AI at Stanford University who also he
 Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper. 
 
 ## Courses in this Specialization:
-1. [Natural Language Processing with Classification and Vector Spaces](./01_Natural_Language_Processing_with_Classification_and_Vector_Spaces/README.md)
+### 1. [Natural Language Processing with Classification and Vector Spaces](./01_Natural_Language_Processing_with_Classification_and_Vector_Spaces/README.md)
 
-2. [Natural Language Processing with Probabilistic Models](./02_Natural_Language_Processing_with_Probabilistic_Models/README.md)
+### 2. [Natural Language Processing with Probabilistic Models](./02_Natural_Language_Processing_with_Probabilistic_Models/README.md)
