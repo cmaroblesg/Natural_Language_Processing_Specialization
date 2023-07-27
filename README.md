@@ -14,3 +14,5 @@ Younes Bensouda Mourri is an Instructor of AI at Stanford University who also he
 ### 1. [Natural Language Processing with Classification and Vector Spaces](./01_Natural_Language_Processing_with_Classification_and_Vector_Spaces/README.md)
 
 ### 2. [Natural Language Processing with Probabilistic Models](./02_Natural_Language_Processing_with_Probabilistic_Models/README.md)
+
+### 3. [Natural Language Processing with Sequence Models](./03_Natural_Language_Processing_with_Sequence_Models/README.md)
