@@ -1,4 +1,4 @@
-# [Natural Language Processing with Sequence Models](./https://www.coursera.org/learn/sequence-models-in-nlp/home/info)
+# [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp/home/info)
 ***by DeepLearning.AI***
 
 ## About this Course
