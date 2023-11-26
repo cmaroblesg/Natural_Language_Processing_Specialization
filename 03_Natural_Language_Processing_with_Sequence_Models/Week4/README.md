@@ -11,4 +11,7 @@ Learn about Siamese networks, a special type of neural network made of two ident
 * Data generators
 
 ## Labs
-* [**Lab 01:**]()
+* [**Lab 01:** Creating a Siamese Model using Trax](./Labs/C3_W4_lecture_nb_1_siamese.ipynb)
+* [**Lab 02:** Lecture Notebook: Modified Triplet Loss](./Labs/C3_W4_lecture_nb_2_Modified_Triplet_Loss.ipynb)
+* [**Lab 03:** Evaluate a Siamese Model](./Labs/C3_W4_lecture_nb_3_accuracy.ipynb)
+* [**Assignment:** Question Duplicates](./Labs/C3_W4_Assignment.ipynb)
